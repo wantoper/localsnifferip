@@ -10,7 +10,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
-
+// °æ±¾1
 public class mian {
 
 	public static void main(String[] args) throws Exception {
